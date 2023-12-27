@@ -1,0 +1,17 @@
+{
+  "name": "teste-ia-node",
+  "version": "1.0.0",
+  "description": "A Simple test with NodeJs and AI of Google",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google/generative-ai": "^0.1.3",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2"
+  }
+}
